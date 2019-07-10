@@ -10,6 +10,8 @@ http://serraventura.droppages.com/medals-table-react-hooks/index.html
  - Sorting by medals won (by type of medals)
  - Liquid and responsive design
 
+**please, keep in mind UX was not the goal here**. I may do tweaks some point later to improve UX and fix bugs. 
+
 #### Design decisions:
 Studing some of the new features from latest React version. I've decided to use one of the new hooks called ```useReducer```. 
 
